@@ -46,6 +46,7 @@ MIMIR is a modular flow built using [Langflow](https://github.com/logspace-ai/la
 - Choose between **Text** or **Raw HTML** output  
 - The agent processes the data and gives you the results in structured or textual format  
 - Make sure to add your API key (e.g., for Google Gemini) when configuring the agent
+- Run playground and continue using your very own Local LLM teacher
 
 ---
 
